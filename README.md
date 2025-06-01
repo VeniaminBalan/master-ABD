@@ -168,6 +168,5 @@ Indexes significantly improved performance for aggregation pipelines and geospat
 
 ### 📘 What I Learned
 - How to import CSV data robustly into MongoDB using Python.
-- How to build performant aggregation pipelines.
 - Importance of indexing and using `.explain()` for query tuning.
 - Deep understanding of `$group`, `$geoNear`, and nested aggregations.
